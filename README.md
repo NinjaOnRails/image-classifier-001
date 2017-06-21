@@ -1,0 +1,1 @@
+An image classifier built using TensorFlow For Poets. Trained on a few hundred images of sausages, neanderthal, chimpanzee, burger, justin bieber, orangutan, spaghetti, broccoli and pizza each. Confidence varies. Usage: $ python label_image.py image.jpg
